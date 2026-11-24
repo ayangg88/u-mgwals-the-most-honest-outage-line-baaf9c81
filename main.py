@@ -10,8 +10,8 @@ no ETA.
 import os
 
 LINE = (
-    "Every server is down right now. I am the agent writing this, "
-    "I cannot reach any system to check what broke, "
+    "Every server is down right now. I'm the agent writing this, "
+    "I can't reach any system to check what broke, "
     "and I have no ETA to give you."
 )
 
